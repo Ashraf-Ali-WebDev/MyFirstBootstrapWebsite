@@ -1,0 +1,9 @@
+*{
+    margin: 0;padding: 0;
+}
+.card:hover{
+    transition: 0.5s ease;
+    scale: 0.8;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-20px);
+}
